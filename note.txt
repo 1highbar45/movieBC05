@@ -1,0 +1,27 @@
+npm i react-router-dom
+
+npm i react-redux
+npm i redux
+npm i redux-thunk
+
+npm i axios
+
+npm i lodash
+
+npm i moment
+
+npm install -D tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
+npm install @craco/craco
+npx tailwindcss init
+
+npm i history@4.10.0
+
+npm i sass-loader node-sass
+
+npm i formik yup
+
+npm i @aspnet/signalr
+
+mambaUI
+ant Designed
+tailblocks
