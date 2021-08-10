@@ -10,7 +10,7 @@ const contentStyle = {
     textAlign: 'center',
     backgroundPosition: 'center',
     backgroundSize: '100%',
-    backgroundRepeat: 'no-repeat'
+    backgroundRepeat: 'no-repeat',
 };
 
 export default function HomeCarousel() {
